@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d397ce60-5662-4dff-810b-366a71a14c1a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dags/airflowlib/emr_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/dags/airflowlib/emr_lib.py" afterDir="false" />
-    </list>
+    <list default="true" id="d397ce60-5662-4dff-810b-366a71a14c1a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
