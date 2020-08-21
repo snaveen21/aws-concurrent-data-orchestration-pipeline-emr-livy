@@ -6,7 +6,7 @@ from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
 
 default_args = {
-    'owner': 'airflow',
+    'owner': 'airflow_aws_emr_202008',
     'depends_on_past': False,
     'start_date': datetime(2017, 11, 01),
     'retries': 0,
