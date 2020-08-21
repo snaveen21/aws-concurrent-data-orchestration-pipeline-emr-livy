@@ -164,5 +164,5 @@ wait_for_cluster_completion >> transform_movies >> terminate_cluster
 wait_for_cluster_completion >> transform_ratings >> terminate_cluster
 wait_for_cluster_completion >> transform_links >> terminate_cluster
 wait_for_cluster_completion >> transform_tags >> terminate_cluster
-wait_for_cluster_completion >> transform_genome_scores >> terminate_cluster
-wait_for_cluster_completion >> transform_genome_tags >> terminate_cluster
+transform_links >> transform_genome_scores >> terminate_cluster
+transform_tags >> transform_genome_tags >> terminate_cluster
